@@ -1,0 +1,1414 @@
+{
+  "Slide_1": {
+    "page": 1,
+    "elements": [
+      {
+        "name": "Date Placeholder 29",
+        "type": "shape"
+      },
+      {
+        "name": "Footer Placeholder 66",
+        "type": "shape"
+      },
+      {
+        "name": "Slide Number Placeholder 67",
+        "type": "shape"
+      },
+      {
+        "name": "TitleChartMeasureTree",
+        "type": "shape"
+      },
+      {
+        "name": "CHART_01-2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_01-1",
+        "children": [
+          {
+            "name": "group_VOLUME-UNITS",
+            "children": [
+              {
+                "name": "shape_header_volume_units",
+                "type": "shape"
+              },
+              {
+                "name": "shape_abs_volume_units",
+                "type": "shape"
+              },
+              {
+                "name": "shape_var_volume_units",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVG-PRICE",
+            "children": [
+              {
+                "name": "header_preco_medio",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_preco_medio",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_preco_medio",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_BUYERS",
+            "children": [
+              {
+                "name": "header_compradores",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_compradores",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_compradores",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_VOL-PER-BUYER",
+            "children": [
+              {
+                "name": "header_volume_por_comprador",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_volume_por_comprador",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_volume_por_comprador",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS",
+            "children": [
+              {
+                "name": "header_total_domicilios",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_total_domicilios",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_total_domicilios",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_penetracao",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_penetracao",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_penetracao",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_VOL-PER-TRIP",
+            "children": [
+              {
+                "name": "header_volume_por_viagem",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_volume_por_viagem",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_volume_por_viagem",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "shape_header_frequencia",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_frequencia",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_frequencia",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_SPEND-PER-TRIP",
+            "children": [
+              {
+                "name": "header_gasto_por_viagem",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_gasto_por_viagem",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_gasto_por_viagem",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY2",
+            "children": [
+              {
+                "name": "header_frequencia2",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_frequencia2",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_frequencia2",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_SPEND-PER-BUYER",
+            "children": [
+              {
+                "name": "header_gasto_por_comprador",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_gasto_por_comprador",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_gasto_por_comprador",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_valor",
+                "type": "shape"
+              },
+              {
+                "name": "val_abs_valor",
+                "type": "shape"
+              },
+              {
+                "name": "var_per_valor",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FILTERS",
+        "type": "shape"
+      }
+    ]
+  },
+  "Slide_2": {
+    "page": 2,
+    "elements": [
+      {
+        "name": "CHART_02",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_3": {
+    "page": 3,
+    "elements": [
+      {
+        "name": "CHART_03",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_4": {
+    "page": 4,
+    "elements": [
+      {
+        "name": "CHART_04_6",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_04_5",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_04_4",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_04_3",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_04_2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_04_1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_5": {
+    "page": 5,
+    "elements": [
+      {
+        "name": "CHART_05",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_6": {
+    "page": 6,
+    "elements": [
+      {
+        "name": "CHART-08-1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_7": {
+    "page": 7,
+    "elements": [
+      {
+        "name": "CHART_07_2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_07_1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_8": {
+    "page": 8,
+    "elements": [
+      {
+        "name": "CHART_08_4",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_08_3",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_08_2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_08_1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_9": {
+    "page": 9,
+    "elements": [
+      {
+        "name": "CHART_09",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_10": {
+    "page": 10,
+    "elements": [
+      {
+        "name": "VERTICAL_TREE_1",
+        "children": [
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "val_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "var_VALUE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS",
+            "children": [
+              {
+                "name": "header_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-PRICE",
+            "children": [
+              {
+                "name": "header_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-PRICE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "val_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "var_PENETRATION",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "header_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "val_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "var_FREQUENCY",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS-PER-TRIP",
+            "children": [
+              {
+                "name": "header_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS-PER-TRIP",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-TICKET",
+            "children": [
+              {
+                "name": "header_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-TICKET",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-UNITS",
+            "children": [
+              {
+                "name": "header_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-SPEND",
+            "children": [
+              {
+                "name": "header_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-SPEND",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HOUSEHOLDS",
+            "children": [
+              {
+                "name": "header_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HOUSEHOLDS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS-BUYERS",
+            "children": [
+              {
+                "name": "header_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HHOLDS-BUYERS",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VERTICAL_TREE_2",
+        "children": [
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "val_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "var_VALUE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS",
+            "children": [
+              {
+                "name": "header_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-PRICE",
+            "children": [
+              {
+                "name": "header_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-PRICE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "val_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "var_PENETRATION",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "header_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "val_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "var_FREQUENCY",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS-PER-TRIP",
+            "children": [
+              {
+                "name": "header_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS-PER-TRIP",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-TICKET",
+            "children": [
+              {
+                "name": "header_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-TICKET",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-UNITS",
+            "children": [
+              {
+                "name": "header_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-SPEND",
+            "children": [
+              {
+                "name": "header_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-SPEND",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HOUSEHOLDS",
+            "children": [
+              {
+                "name": "header_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HOUSEHOLDS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS-BUYERS",
+            "children": [
+              {
+                "name": "header_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HHOLDS-BUYERS",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VERTICAL_TREE_3",
+        "children": [
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "val_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "var_VALUE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS",
+            "children": [
+              {
+                "name": "header_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-PRICE",
+            "children": [
+              {
+                "name": "header_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-PRICE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "val_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "var_PENETRATION",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "header_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "val_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "var_FREQUENCY",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS-PER-TRIP",
+            "children": [
+              {
+                "name": "header_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS-PER-TRIP",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-TICKET",
+            "children": [
+              {
+                "name": "header_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-TICKET",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-UNITS",
+            "children": [
+              {
+                "name": "header_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-SPEND",
+            "children": [
+              {
+                "name": "header_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-SPEND",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HOUSEHOLDS",
+            "children": [
+              {
+                "name": "header_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HOUSEHOLDS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS-BUYERS",
+            "children": [
+              {
+                "name": "header_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HHOLDS-BUYERS",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VERTICAL_TREE_4",
+        "children": [
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "val_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "var_VALUE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS",
+            "children": [
+              {
+                "name": "header_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-PRICE",
+            "children": [
+              {
+                "name": "header_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-PRICE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "val_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "var_PENETRATION",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "header_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "val_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "var_FREQUENCY",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS-PER-TRIP",
+            "children": [
+              {
+                "name": "header_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS-PER-TRIP",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-TICKET",
+            "children": [
+              {
+                "name": "header_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-TICKET",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-UNITS",
+            "children": [
+              {
+                "name": "header_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-SPEND",
+            "children": [
+              {
+                "name": "header_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-SPEND",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HOUSEHOLDS",
+            "children": [
+              {
+                "name": "header_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HOUSEHOLDS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS-BUYERS",
+            "children": [
+              {
+                "name": "header_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HHOLDS-BUYERS",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VERTICAL_TREE_5",
+        "children": [
+          {
+            "name": "group_VALUE",
+            "children": [
+              {
+                "name": "header_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "val_VALUE",
+                "type": "shape"
+              },
+              {
+                "name": "var_VALUE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS",
+            "children": [
+              {
+                "name": "header_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-PRICE",
+            "children": [
+              {
+                "name": "header_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-PRICE",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-PRICE",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_PENETRATION",
+            "children": [
+              {
+                "name": "header_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "val_PENETRATION",
+                "type": "shape"
+              },
+              {
+                "name": "var_PENETRATION",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_FREQUENCY",
+            "children": [
+              {
+                "name": "header_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "val_FREQUENCY",
+                "type": "shape"
+              },
+              {
+                "name": "var_FREQUENCY",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_UNITS-PER-TRIP",
+            "children": [
+              {
+                "name": "header_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "val_UNITS-PER-TRIP",
+                "type": "shape"
+              },
+              {
+                "name": "var_UNITS-PER-TRIP",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-TICKET",
+            "children": [
+              {
+                "name": "header_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-TICKET",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-TICKET",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-UNITS",
+            "children": [
+              {
+                "name": "header_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-UNITS",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-UNITS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_AVERAGE-SPEND",
+            "children": [
+              {
+                "name": "header_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "val_AVERAGE-SPEND",
+                "type": "shape"
+              },
+              {
+                "name": "var_AVERAGE-SPEND",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HOUSEHOLDS",
+            "children": [
+              {
+                "name": "header_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HOUSEHOLDS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HOUSEHOLDS",
+                "type": "shape"
+              }
+            ]
+          },
+          {
+            "name": "group_HHOLDS-BUYERS",
+            "children": [
+              {
+                "name": "header_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "val_HHOLDS-BUYERS",
+                "type": "shape"
+              },
+              {
+                "name": "var_HHOLDS-BUYERS",
+                "type": "shape"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Slide_11": {
+    "page": 11,
+    "elements": [
+      {
+        "name": "CHART_11-2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_11-1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_12": {
+    "page": 12,
+    "elements": [
+      {
+        "name": "CHART_12",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_13": {
+    "page": 13,
+    "elements": [
+      {
+        "name": "CHART_13-2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_13-1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_14": {
+    "page": 14,
+    "elements": [
+      {
+        "name": "FILTER",
+        "type": "shape"
+      },
+      {
+        "name": "CHART_14-11",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-10",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-9",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-8",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-7",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-6",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-5",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-4",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-3",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-2",
+        "type": "chart"
+      },
+      {
+        "name": "CHART_14-1",
+        "type": "chart"
+      }
+    ]
+  },
+  "Slide_15": {
+    "page": 15,
+    "elements": [
+      {
+        "name": "FILTER",
+        "type": "shape"
+      },
+      {
+        "name": "CHART_15",
+        "type": "chart"
+      }
+    ]
+  }
+}
